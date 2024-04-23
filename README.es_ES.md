@@ -1,6 +1,6 @@
 # 3X-UI
 
-[Español](/README.es_ES.md) | [English](/README.md) | [Chinese](/README.zh.md)
+[English](/README.md) | [Chinese](/README.zh.md) | [Español](/README.es_ES.md)
 
 <p align="center"><a href="#"><img src="./media/3X-UI.png" alt="Image"></a></p>
 
@@ -28,10 +28,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 ## Instalar una Versión Personalizada
 
-Para instalar la versión deseada, agrega la versión al final del comando de instalación. Por ejemplo, ver `v2.2.6`:
+Para instalar la versión deseada, agrega la versión al final del comando de instalación. Por ejemplo, ver `v2.2.8`:
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v2.2.6
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v2.2.8
 ```
 
 ## Certificado SSL
